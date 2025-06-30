@@ -48,7 +48,7 @@ Before starting, ensure you have a basic understanding of:
 
     * Locate "Create access key" in user settings, and choose the command line interface (CLI) option to generate an access key.
 
-        ![](https://github.com/harshitsood0904/CICDTerraform/blob/main/Images/access%20key.png)
+        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/4.jpg)
 
     * View or download the access key and secret access key either from the console or via CSV download.
 

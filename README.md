@@ -38,7 +38,7 @@ Before starting, ensure you have a basic understanding of:
 
     * Enter the username and proceed to the next step.
 
-        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/1.png)
+        ![](https://github.com/harshitsood0904/CICDTerraform/blob/main/Images/username.png)
 
     * Assign permissions by attaching policies directly, opting for "Administrator access," and then create the user.
 
@@ -83,7 +83,7 @@ The project is divided into two parts:
 
 ### Part 1: Manual Setup
 
-1. **Create a new folder named “cicdtf” and open it in VS Code to start writing the code.**
+1. **Create a new folder named “CICDTF” and open it in VS Code to start writing the code.**
 
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720803528310/a0187ef8-044e-4085-8c88-86869e7281a9.png)
 

@@ -44,7 +44,7 @@ Before starting, ensure you have a basic understanding of:
 
         ![](https://github.com/harshitsood0904/CICDTerraform/blob/main/Images/permissions.png)
 
-        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/3.png)
+        
 
     * Locate "Create access key" in user settings, and choose the command line interface (CLI) option to generate an access key.
 

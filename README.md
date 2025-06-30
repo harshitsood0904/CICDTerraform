@@ -42,13 +42,13 @@ Before starting, ensure you have a basic understanding of:
 
     * Assign permissions by attaching policies directly, opting for "Administrator access," and then create the user.
 
-        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/2.png)
+        ![](https://github.com/harshitsood0904/CICDTerraform/blob/main/Images/permissions.png)
 
         ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/3.png)
 
     * Locate "Create access key" in user settings, and choose the command line interface (CLI) option to generate an access key.
 
-        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/4.jpg)
+        ![](https://github.com/harshitsood0904/CICDTerraform/blob/main/Images/access%20key.png)
 
     * View or download the access key and secret access key either from the console or via CSV download.
 
